@@ -1,3 +1,3 @@
 # Dynamic_Gradient_Background
 
-View Demo http://juanswebdevprojects.com/Dynamic_Gradient_Background/index.html
+View Demo https://juanswebdevprojects.com/Dynamic_Gradient_Background/index.html
